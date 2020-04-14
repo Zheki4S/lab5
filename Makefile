@@ -3,4 +3,4 @@ all:
 	
 run:
 	lab6
-	
+	python3 lab6.py
